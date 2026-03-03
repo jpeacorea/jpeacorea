@@ -8,18 +8,16 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
 
+## 🧠 My Focus Areas
+- Web Developer
+- Mobil Developer
+
+
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/jpeacorea">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jpeacorea&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="jpeacorea's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=jpeacorea&theme=dracula&hide_border=true&cache_seconds=86400" alt="jpeacorea's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=jpeacorea&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="George Lewis's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=jpeacorea&theme=dracula&radius=10" alt="jpeacorea's Activity Graph" />
 </p>
 
 
@@ -51,12 +49,6 @@
 
 ## 🔗 Connect with Me
 <p align="center"> <a href="https://wa.me/50557028680" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:jpeacorea@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="georgepenacore.me" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
 
 <p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
